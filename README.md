@@ -12,12 +12,12 @@ A Trello-style Kanban board built with **React**, **TypeScript**, and **Zustand*
 
 ## 🖼️ Demo
 
-👉 [배포 링크](https://yourusername.github.io/trello/)
+👉 [배포 링크](https://neetdetective.github.io/trello/)
 
 ## 🚀 Getting Started
 
 ```bash
-git clone https://github.com/yourusername/trello.git
+git clone https://github.com/neetdetective/trello.git
 cd trello
 npm install
 npm run dev
